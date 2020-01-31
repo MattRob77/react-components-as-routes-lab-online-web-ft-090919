@@ -20,7 +20,6 @@ const App = (props) => {
         <Route exact path="/directors" component={Directors} />
         <Route exact path="/movies" component={Movies} />
       </div>
-      
     </Router>
   );
 };
