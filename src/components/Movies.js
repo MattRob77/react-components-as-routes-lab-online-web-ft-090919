@@ -3,7 +3,9 @@ import { movies } from '../data';
 
 const Movies = () => {
   const renderMovies = movies => {
-    return movies.map(movie =>)
+    return movies.map(movie => {
+      
+    })
   }
   return (
     <div>
