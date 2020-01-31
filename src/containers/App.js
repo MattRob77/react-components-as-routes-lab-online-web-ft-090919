@@ -15,6 +15,7 @@ const App = (props) => {
     <Router>
       <div>
         <NavBar />
+        <Route exact path="/" component={Home}
       </div>
       
     </Router>
